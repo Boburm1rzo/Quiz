@@ -14,7 +14,7 @@ namespace Quiz
     {
         static void Main(string[] args)
         {
-            string token = "6984020267:AAHtHT9F1aeEgxdXokI8O6-Jg3pQzI5WEXc";
+            string token = "6746544742:AAFUTagbEZ4q3ZgWUIEcUDrxKTPgO-S34WI";
             TelegramBotClient botClient = new TelegramBotClient(token);
 
             botClient.StartReceiving(
